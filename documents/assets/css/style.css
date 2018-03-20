@@ -1,0 +1,31 @@
+.correctanswer{
+    font-weight: bold;
+    color:green
+}
+
+.selectedwronganswer{
+    font-weight: bold;
+    color:red;
+    text-decoration: line-through;
+}
+
+.mainTitle{
+    background-color:black;
+    border-radius:10px;
+    color:cyan;
+    padding:10px;
+    margin:20px auto;
+    height:auto;
+    text-align: center;
+    font-size: 200%;
+}
+
+.panel-heading{
+    text-align:center;
+    font-size:50px;
+}
+
+.aninput, .btn-primary{
+    border-radius:5px;
+    margin:1px 0px;
+}
